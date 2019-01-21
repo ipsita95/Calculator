@@ -1,0 +1,41 @@
+body {
+  background-color: #212F3C;
+}
+.container {
+  margin: 10% 35%;
+}
+.display {
+  background: #fff;
+  width: 50%;
+  height: 20vh;
+  box-shadow: 0px -17px 6px -6px #17202A;
+}
+.display-no {
+  background: #34495E;
+  width: 50%;
+  min-height: 20vh;
+  box-shadow: -13px 12px 6px -6px #17202A;
+  padding-left: 3%;
+  padding-right: 3%;
+  text-align: center;
+}
+#digit {
+  color: white;
+  font-size: 1.5rem;
+  padding: 5%;
+  border: 1px solid #566573;
+}
+#operation {
+  color: white;
+  font-size: 1.5rem;
+  padding: 5%;
+  border: 1px solid #566573;
+  background-color: #7D3C98;
+}
+#equal {
+  color: black;
+  font-size: 1.5rem;
+  padding: 5%;
+  border: 1px solid #566573;
+  background-color: #F4D03F;
+}
